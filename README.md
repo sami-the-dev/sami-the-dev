@@ -29,4 +29,6 @@ const Sami = {
 </h1>
 </div>
 
-[![roadmap.sh](https://roadmap.sh/card/wide/64ecdbd8b128dce3cb8622d0?variant=dark&roadmaps=golang%2Cbackend)](https://roadmap.sh)
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/32dbe283-4903-4a47-8f3e-64e6306faefb/thumbnail" >
+</p>
