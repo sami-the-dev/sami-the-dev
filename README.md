@@ -11,34 +11,34 @@
 
 ### ⚡ Front End Developer · React Specialist · UI Craftsman
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-ahmedsamidev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedsamidev)
-[![GitHub](https://img.shields.io/github/followers/ahmedssamy11555?label=Follow&style=for-the-badge&logo=github&logoColor=white&color=black)](https://github.com/ahmedssamy11555)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-sami--the--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sami-the-dev)
+[![GitHub](https://img.shields.io/github/followers/sami-the-dev?label=Follow&style=for-the-badge&logo=github&logoColor=white&color=black)](https://github.com/sami-the-dev)
 [![Email](https://img.shields.io/badge/Email-ahmedssami.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedssami.dev@gmail.com)
 
 </div>
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+<img align="center"  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 
 ### 👨‍💻 About Me
 
 ```javascript
 const ahmed = {
-  role:     "Frontend Developer",
-  company:  "Techroit Solutions",
+  role: "Frontend Developer",
+  company: "Techroit Solutions",
   location: "Egypt 🇪🇬",
 
   languages: ["JavaScript", "TypeScript", "Python", "HTML5", "CSS3"],
-  
+
   stack: {
     frontend: ["React", "Next.js", "React Native", "TailwindCSS"],
-    backend:  ["Node.js", "Express.js", "MongoDB"],
-    tools:    ["Git", "Figma", "Postman", "VS Code"],
+    backend: ["Node.js", "Express.js", "MongoDB"],
+    tools: ["Git", "Figma", "Postman", "VS Code"],
   },
 
   currentFocus: "Full-Stack Development 🚀",
-  available:    true,
+  available: true,
 };
 ```
 
@@ -46,14 +46,17 @@ const ahmed = {
 
 ### 🚀 Experience
 
-**🔷 Techroit Solutions** — *Frontend Developer* `May 2024 – Present`
+**🔷 Techroit Solutions** — _Frontend Developer_ `May 2024 – Present`
+
 - 🏪 **Celluxis** — Store management platform with real-time inventory, barcode scanning, role-based access, multi-location support & customer CRM
 - 🏅 **Athlete Booking** — Responsive event booking platform with real-time availability (React.js)
 
-**🔷 ProgmaTech** — *Frontend Developer* `Nov 2025 – Mar 2026`
+**🔷 ProgmaTech** — _Frontend Developer_ `Nov 2025 – Mar 2026`
+
 - 🌍 **TripPro** — Travel guide with interactive maps, curated itineraries & dynamic filtering
 
-**🔷 Freelancer.com** — *Frontend Developer* `Dec 2022 – May 2024`
+**🔷 Freelancer.com** — _Frontend Developer_ `Dec 2022 – May 2024`
+
 - ✈️ **Travelio Dashboard** — Dubai tourism admin panel with package builder, CRM & real-time booking
 - 🐍 **Python Scraper** — Selenium automation processing 1000+ URLs at 85% match rate
 
@@ -88,11 +91,11 @@ const ahmed = {
 
 ### 🌟 Featured Projects
 
-| Project | Description | Stack | Links |
-|---------|-------------|-------|-------|
-| 💼 **Jobify** | Job application tracker with status management | React · Node · MongoDB | [GitHub](https://github.com/ahmedsamidev) · [Live](https://github.com/ahmedsamidev) |
-| 🏠 **Emirates Real Estate** | Property listing platform with advanced search | React · Next.js | [GitHub](https://github.com/ahmedsamidev) · [Live](https://github.com/ahmedsamidev) |
-| 🛒 **GoShop** | E-commerce with cart & checkout flow | React · TailwindCSS | [GitHub](https://github.com/ahmedsamidev) · [Live](https://github.com/ahmedsamidev) |
+| Project                     | Description                                    | Stack                  | Links                                                                               |
+| --------------------------- | ---------------------------------------------- | ---------------------- | ----------------------------------------------------------------------------------- |
+| 💼 **Jobify**               | Job application tracker with status management | React · Node · MongoDB | [GitHub](https://github.com/sami-the-dev) · [Live](https://github.com/sami-the-dev) |
+| 🏠 **Emirates Real Estate** | Property listing platform with advanced search | React · Next.js        | [GitHub](https://github.com/sami-the-dev) · [Live](https://github.com/sami-the-dev) |
+| 🛒 **GoShop**               | E-commerce with cart & checkout flow           | React · TailwindCSS    | [GitHub](https://github.com/sami-the-dev) · [Live](https://github.com/sami-the-dev) |
 
 ---
 
@@ -102,15 +105,15 @@ const ahmed = {
 <summary><b>🎓 Click to expand certifications</b></summary>
 <br>
 
-| Platform | Course |
-|----------|--------|
-| ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=udemy&logoColor=white) | The Complete JavaScript Course 2025: From Zero to Expert |
-| ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=udemy&logoColor=white) | Advanced CSS and Sass: Flexbox, Grid, Animations and More |
-| ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=udemy&logoColor=white) | React - The Complete Guide (incl Hooks, React Router, Redux) |
-| ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=udemy&logoColor=white) | Next.js 14 & React - The Complete Guide |
-| ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=udemy&logoColor=white) | Node.js, Express, MongoDB & More: The Complete Bootcamp 2025 |
-| ![Frontend Masters](https://img.shields.io/badge/Frontend_Masters-CC0000?style=flat&logo=frontendmasters&logoColor=white) | TypeScript 5 Fundamentals, v4 |
-| ![Frontend Masters](https://img.shields.io/badge/Frontend_Masters-CC0000?style=flat&logo=frontendmasters&logoColor=white) | Tailwind CSS |
+| Platform                                                                                                                  | Course                                                       |
+| ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=udemy&logoColor=white)                                 | The Complete JavaScript Course 2025: From Zero to Expert     |
+| ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=udemy&logoColor=white)                                 | Advanced CSS and Sass: Flexbox, Grid, Animations and More    |
+| ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=udemy&logoColor=white)                                 | React - The Complete Guide (incl Hooks, React Router, Redux) |
+| ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=udemy&logoColor=white)                                 | Next.js 14 & React - The Complete Guide                      |
+| ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=udemy&logoColor=white)                                 | Node.js, Express, MongoDB & More: The Complete Bootcamp 2025 |
+| ![Frontend Masters](https://img.shields.io/badge/Frontend_Masters-CC0000?style=flat&logo=frontendmasters&logoColor=white) | TypeScript 5 Fundamentals, v4                                |
+| ![Frontend Masters](https://img.shields.io/badge/Frontend_Masters-CC0000?style=flat&logo=frontendmasters&logoColor=white) | Tailwind CSS                                                 |
 
 </details>
 
@@ -120,14 +123,14 @@ const ahmed = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ahmedssamy11555&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedssamy11555&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=sami-the-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sami-the-dev&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ahmedssamy11555&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sami-the-dev&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -149,8 +152,8 @@ const ahmed = {
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" /> &nbsp; *I love connecting with people — say hi anytime!* &nbsp; <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" />
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" /> &nbsp; _I love connecting with people — say hi anytime!_ &nbsp; <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=ahmedssamy11555&color=blue&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=sami-the-dev&color=blue&style=for-the-badge)
 
 </div>
