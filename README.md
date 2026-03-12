@@ -1,5 +1,6 @@
 <div align="center">
-  
+
+
 ### ⚡ Front End Developer · React Specialist · UI Craftsman
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-sami--the--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sami-the-dev)
@@ -94,7 +95,7 @@ const ahmed = {
 
 ### 📜 Certifications
 
-<details>
+<details open>
 <summary><b>🎓 Click to expand certifications</b></summary>
 <br>
 
