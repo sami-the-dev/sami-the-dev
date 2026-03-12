@@ -1,14 +1,5 @@
 <div align="center">
-
-```
-█████╗ ██╗  ██╗███╗   ███╗███████╗██████╗
-██╔══██╗██║  ██║████╗ ████║██╔════╝██╔══██╗
-███████║███████║██╔████╔██║█████╗  ██║  ██║
-██╔══██║██╔══██║██║╚██╔╝██║██╔══╝  ██║  ██║
-██║  ██║██║  ██║██║ ╚═╝ ██║███████╗██████╔╝
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═════╝
-```
-
+  
 ### ⚡ Front End Developer · React Specialist · UI Craftsman
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-sami--the--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sami-the-dev)
@@ -19,7 +10,9 @@
 
 ---
 
-<img align="center"  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="300" style="border-radius: 50%; object-fit: cover;" />
+</div>
 
 ### 👨‍💻 About Me
 
